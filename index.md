@@ -3,6 +3,8 @@ layout: front
 title: Privacy Enhancements and Assessments Research Group
 ---
 
+# IRTF Privacy Enhancements and Assessments Research Group
+
 ## Overview
 
 The Privacy Enhancements and Assessments Research Group (PEARG) is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the [IETF](https://ietf.org/) in particular. Its main objectives are as follows:
