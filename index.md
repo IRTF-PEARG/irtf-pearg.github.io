@@ -23,12 +23,12 @@ PEARG aims to engage with academic and open source (e.g. Tor Project, EFF, OTF) 
     [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-safe-internet-measurement/)
 - **A Survey of Worldwide Censorship Techniques** -
     [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-censorship/)
-- **Network-Based Website Fingerprinting** -
-    [RG draft](https://datatracker.ietf.org/doc/draft-wood-pearg-website-fingerprinting/)
 - **Unfortunate History of Transient Numeric Identifiers** -
     [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-numeric-ids-history/)
 - **On the Generation of Transient Numeric Identifiers** -
     [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-numeric-ids-generation/)
+- **Network-Based Website Fingerprinting** -
+    [RG draft](https://datatracker.ietf.org/doc/draft-wood-pearg-website-fingerprinting/)
 
 ## Get Involved!
 
