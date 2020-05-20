@@ -1,8 +1,3 @@
----
-layout: front
-title: Privacy Enhancements and Assessments Research Group
----
-
 # IRTF Privacy Enhancements and Assessments Research Group
 
 The Privacy Enhancements and Assessments Research Group (PEARG) is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the [IETF](https://ietf.org/) in particular. Its main objectives are as follows:
@@ -30,12 +25,11 @@ PEARG aims to engage with academic and open source (e.g. Tor Project, EFF, OTF) 
 
 ## Get Involved!
 
-The next PEARG meeting will take place at *IETF 107 in Vancouver*.
+The next PEARG meeting will be a virtual interim meeting co-ordinating with *IETF 108*.
 
 Check out the content below for more information on participating.
 
+* [Datatracker page for the group](https://datatracker.ietf.org/rg/pearg/about/)
 * Read the [charter](https://datatracker.ietf.org/doc/charter-irtf-pearg/)
 * Subscribe to the [mailing list](https://irtf.org/mailman/listinfo/pearg or https://mailarchive.ietf.org/arch/browse/pearg/)
 * Read the [research group materials](https://github.com/IRTF-PEARG/wg-materials)
-
-----
