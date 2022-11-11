@@ -10,22 +10,9 @@ The Privacy Enhancements and Assessments Research Group (PEARG) is a general for
 
 PEARG aims to engage with academic and open source (e.g. Tor Project, EFF, OTF) communities and encourage specification of key privacy-enhancing technologies in Informational or Experimental RFCs. It also aims to engage with other organizations e.g. PETS, SOUPS, W3C and the Privacy Interest Group therein.
 
-## Current Research Group Documents
-
-- **Guidelines for Performing Safe Measurement on the Internet** -
-    [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-safe-internet-measurement/)
-- **A Survey of Worldwide Censorship Techniques** -
-    [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-censorship/)
-- **Unfortunate History of Transient Numeric Identifiers** -
-    [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-numeric-ids-history/)
-- **On the Generation of Transient Numeric Identifiers** -
-    [RG draft](https://datatracker.ietf.org/doc/draft-irtf-pearg-numeric-ids-generation/)
-- **Network-Based Website Fingerprinting** -
-    [RG draft](https://datatracker.ietf.org/doc/draft-wood-pearg-website-fingerprinting/)
+[Current Research Group Documents](https://datatracker.ietf.org/rg/pearg/documents/).
 
 ## Get Involved!
-
-The next PEARG meeting will be a virtual interim meeting co-ordinating with *IETF 108*.
 
 Check out the content below for more information on participating.
 
